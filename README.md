@@ -26,48 +26,70 @@ This project involves the installation of the Microsoft Office 365 Developer Pro
 <h2>Project Installation Steps</h2>
 
 - Step 1
-  - Create a Resource Group within Microsoft Azure
-![image](https://github.com/chriskhawaja/azure-network-protocols/assets/153021794/36006b36-ffd9-41f5-9f41-7f04ae2ce17e)
+  - Search on Google "Microsoft 365 Developer Program" and click the first link
+![image](https://github.com/chriskhawaja/office365/assets/153021794/090fc3b6-5b13-43cf-bdad-a3d4955cab51)
 
-- Step 2  - within the Resource Group that was created
-  - Create an Azure Virtual Machine running a Windows 10 Pro Image
-  - Make sure to place this Virtual Machine into the resource group that was created
-  - Ensure that 2 Virtual CPU's are selected for each Virtual Machine
-  ![image](https://github.com/chriskhawaja/azure-network-protocols/assets/153021794/baef5b4a-f3ed-40d2-90d6-fcd570da6d1c)
+
+- Step 2  
+  - Click the "Join Now" button once you reach the website
+ ![image](https://github.com/chriskhawaja/office365/assets/153021794/43b7c9de-01ea-4fb3-8fcf-aa42e3ff3355)
+
 
 - Step 3
-  - Repeat the same process and create a Virtual Machine with an Ubuntu Server Image
-  - Make sure that both Virtual Machines are on the same Virtual Network   
-![image](https://github.com/chriskhawaja/azure-network-protocols/assets/153021794/c12876b3-2705-4d20-a23a-297d160110e4)
+  - Sign-in with your Microsoft Account
+  - Create an account if you don't have one
+    
+![image](https://github.com/chriskhawaja/office365/assets/153021794/7b500a22-230d-4755-9be3-000d1333a807)
+
 
 
 
 - Step 4
-  - Utilizing RDP on Windows, remote into Virtual Machine 1 (Windows Pro) - by typing in the IP Address
-  - If using a Mac computer, go to the app store and download the Microsoft Remote Desktop application
-  - You will be prompted with a login screen - use the credentials you provided during the virtual machine creation process
-![image](https://github.com/chriskhawaja/azure-network-protocols/assets/153021794/6d103328-f103-429d-aef5-f47c17e1aa1b)
+  - Fill out the required information
+  - Select "Personal projects" for your primary focus as a developer
+  - Check all the boxes and select "Save"
+
+![image](https://github.com/chriskhawaja/office365/assets/153021794/99852d11-b8ab-4bb9-b7a4-10268acc6f18)
+![image](https://github.com/chriskhawaja/office365/assets/153021794/d1088c97-fcf9-47c7-9d9e-331f72506c49)
+![image](https://github.com/chriskhawaja/office365/assets/153021794/13361555-31d8-49a7-89b0-5158603fe023)
+
 
 
 - Step 5
-  - Once you are booted into the Virtual Machine, proceed to download Wireshark
-  - Type in "Download Wireshark" on a Google Search
-    ![image](https://github.com/chriskhawaja/azure-network-protocols/assets/153021794/0fb98c1c-7feb-4465-8ba6-9e4914726d40)
+  - Select "Instant sandbox", which builds the Microsoft Office 365 environment for us, along with the 16 fictitious users
+  - Take note of the 90 days we have to use the subscription, as well as our domain name on the right
+   ![image](https://github.com/chriskhawaja/office365/assets/153021794/1016d1b6-42d6-490f-bc5b-0d6322914a78)
+
 
 - Step 6
-  - Once you are finished downloading Wireshark, boot up Wireshark by searching for the program towards the bottom left corner of the screen
-  
-   ![image](https://github.com/chriskhawaja/azure-network-protocols/assets/153021794/4929ebc0-2736-48f7-bec3-81b7cb40ae7a)
+  - Create your admin username and password
+  - Create an alternative password for the 16 fictitious users
+  - You will be prompted to enter in a phone number for security purposes
+    - Enter a phone number and the Developer Environment should begin the setup process
+  - Select "Go to subscription" to access the environment 
+  ![image](https://github.com/chriskhawaja/office365/assets/153021794/734639b2-3015-4912-bb31-c1736ef4664f)
+
+   
 
 - Step 7
-  - Once you are in Wireshark, be sure to select Ethernet
-  ![image](https://github.com/chriskhawaja/azure-network-protocols/assets/153021794/f4463c38-3339-439e-9e2c-1ce43ee360a5)
+  - From there, you should see your administrator username and your assigned domain name
+  - Enter the password that your created for your admin account and click "Sign-in"
+  - Select "Ask later" when it comes to the security question
+    
+![image](https://github.com/chriskhawaja/office365/assets/153021794/08511636-24e8-4652-9d9c-bf03b6656416)
+
 
 - Step 8
-  - You will begin to see multiple streams of network traffic be displayed
-  - Above the network traffic, where it says "Apply a Display Filter" in the white box, type in whatever traffic you would like to be displayed
-  - Have fun analyzing network traffic!
-  - ![image](https://github.com/chriskhawaja/azure-network-protocols/assets/153021794/bd4a5ea6-9da4-4706-8a86-364312b0e281)
+  - You should now be in your Microsoft Office 365 environment
+  - To access the Admin controls, click the 3 rows of dots in the top left corner
+  - Under Apps, select "Admin"
+  - ![image](https://github.com/chriskhawaja/office365/assets/153021794/2fff29cd-327a-4ce1-8bff-3360eb0e644a)
+  - ![image](https://github.com/chriskhawaja/office365/assets/153021794/34a3d601-a8c5-497e-b67a-98c3bc4c3117)
+ 
+- Step 9
+  - You have now successfully installed the Microsoft 365 Developer Program and have access to the Administrative Center
+  ![image](https://github.com/chriskhawaja/office365/assets/153021794/4b7944ff-388a-420e-8d5e-231393706cc5)
+
 
 <h2>Project Demonstration</h2>
 
