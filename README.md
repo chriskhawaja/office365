@@ -1,33 +1,27 @@
 
 
-![image](https://github.com/chriskhawaja/azure-network-protocols/assets/153021794/1d10087c-82b1-437a-a347-e8eefba67d70)
+![image](https://github.com/chriskhawaja/office365/assets/153021794/90655e7d-c11a-4df6-beae-c2ac8404423a)
 
 
 
 
-<h1>Analyzing Network Traffic and Implementing Network Security Groups</h1>
+
+
+<h1>Practicing Administrative Roles and Actions within Office 365</h1>
 
 <h2>Project Summary</h2>
-This project involves the creation of two virtual machines and the utilization of Wireshark to examine various network traffic. Additionally, Network Security Groups will be accessed via Azure to allow or block ICMP traffic. Completion of this project aims to give the user a better understanding of ports, network protocols, remote desktop protocol, command line use, and a basic proficiency of a network analyzer tool, such as Wireshark.
+This project involves the installation of the Microsoft Office 365 Developer Program, which gives the user administrative access to Office 365 for 90 days. After installing Office 365 Developer, the user will have administrative control over 16 fictitious users in a workplace scenario. Accessing the administrative section of Office 365 will show us how to reset passwords, block sign-ins, create and delete users, share mailboxes, add groups and distribution lists, trace messages through Exchange, and restore deleted emails via Sharepoint. Learning all of the described administrative features is essential, as Office 365 is heavily utilized in many IT environments. The completion of this project should prepare individuals with the basic fundamentals of Office 365. Thus, when faced with Office 365 troubleshooting scenarios, the individual should have some familiarity in using the Office 365 administrative platform.
 <h2>Platforms and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machine Deployment)
-- Azure Resource Group (Contains VM's)
-- Command Prompt (Communication with the Operating System)
-- Wireshark (Network Traffic Analyzer Tool)
-- SSH (Accessing Linux Terminal)
-  - TCP Port 22
-- DNS (Conversion of strings and letters into IP addresses)
-  - TCP and UDP Port 53
-- DHCP (IP Address Allocation)
-  - TCP Ports 67 and 68
-- RDP (Remotely Accessing Virtual Machines)
-  - TCP Port 3389
-
+- Microsoft Office 365 Developer Program
+- Creation of a Microsoft Account
+- Microsoft 365 Admin Center
+- Microsoft Exchange
+- Microsoft Sharepoint
+- Microsoft Intune Admin Center
 <h2>Operating Systems Used </h2>
 
-- Windows 10 Pro
-- Linux (Ubuntu Server 20.04)
+- Windows 11
 
 <h2>Project Installation Steps</h2>
 
