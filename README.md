@@ -19,7 +19,7 @@ This project involves the installation of the Microsoft Office 365 Developer Pro
 - Microsoft Exchange
 - Microsoft Sharepoint
 
-<h2>Operating Systems Used </h2>
+<h2>Operating System Used </h2>
 
 - Windows 11
 
