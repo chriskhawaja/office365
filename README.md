@@ -15,10 +15,10 @@ This project involves the installation of the Microsoft Office 365 Developer Pro
 
 - Microsoft Office 365 Developer Program
 - Creation of a Microsoft Account
-- Microsoft 365 Admin Center
+- Microsoft 365 Administration Center
 - Microsoft Exchange
 - Microsoft Sharepoint
-- Microsoft Intune Admin Center
+
 <h2>Operating Systems Used </h2>
 
 - Windows 11
