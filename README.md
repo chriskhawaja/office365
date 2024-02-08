@@ -89,3 +89,7 @@ This project involves the installation of the Microsoft Office 365 Developer Pro
 - Step 9
   - You have now successfully installed the Microsoft 365 Developer Program and have access to the Administrative Center
   ![image](https://github.com/chriskhawaja/office365/assets/153021794/4b7944ff-388a-420e-8d5e-231393706cc5)
+
+
+
+**** Picture used at the top of personal project is not mine (taken from Google)
